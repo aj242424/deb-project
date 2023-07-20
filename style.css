@@ -1,0 +1,18 @@
+.app-style {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin:0;
+}
+
+.greetingButton-style {
+    background-color: blue;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+}
